@@ -1,0 +1,364 @@
+Moth-Flame Optimization Algorithm Report
+=======================================
+
+Fitness Function: f7_step_ellipsoidal
+Moth's Position Domain: [-100, 100]
+Moth's Position Dimension: 2
+Number of Iterations: 100
+
+Initial Position of Moths:
+Moth 1: [ 18.58284552 -30.10817933]
+Moth 2: [ 42.6998747  -49.63259458]
+Moth 3: [63.89199103 31.47558404]
+Moth 4: [58.27309133 22.65087699]
+Moth 5: [  4.12788155 -92.76758484]
+Moth 6: [-38.66406827 -59.60014909]
+Moth 7: [-84.03918619 -41.79552304]
+Moth 8: [  7.8237793  -71.44000692]
+Moth 9: [-29.62879285  -4.24077035]
+Moth 10: [48.41925646 95.56447708]
+Moth 11: [50.70825211 90.4952551 ]
+Moth 12: [-82.58643247  80.32806358]
+Moth 13: [38.75215541 54.12893386]
+Moth 14: [-63.14884459  83.8521311 ]
+Moth 15: [ 57.42297785 -91.07646737]
+Moth 16: [-60.56628895 -86.03351303]
+Moth 17: [-28.4690186   -7.29297084]
+Moth 18: [77.88746066 -0.40574654]
+Moth 19: [-89.79009429 -88.50431832]
+Moth 20: [-75.03237915  27.67845499]
+Moth 21: [ 57.50629698 -93.44349573]
+Moth 22: [-27.91123946 -82.30822275]
+Moth 23: [ 64.57293452 -34.2268684 ]
+Moth 24: [-15.0601815 -56.5197986]
+Moth 25: [-33.25188895 -51.85084062]
+Moth 26: [ 65.39676814 -32.80096874]
+Moth 27: [ 82.49706596 -37.7567872 ]
+Moth 28: [ 80.57131215 -25.12985568]
+Moth 29: [67.01451732 20.18805268]
+Moth 30: [-99.17457193 -94.30817525]
+Moth 31: [17.81402354 66.71954564]
+Moth 32: [87.66618678 96.57552891]
+Moth 33: [-56.75911738  88.20642556]
+Moth 34: [ 82.44946771 -35.3902288 ]
+Moth 35: [-78.2965502   72.48281116]
+Moth 36: [-33.67946622 -94.38232552]
+Moth 37: [-81.34282024  72.86953726]
+Moth 38: [-77.41214206  -6.28564306]
+Moth 39: [ 87.31159649 -73.770776  ]
+Moth 40: [-20.63072378 -41.9694452 ]
+Moth 41: [56.14582215 75.3133271 ]
+Moth 42: [92.91510201 46.74303164]
+Moth 43: [25.7886052 48.6472325]
+Moth 44: [-8.59941797 -0.76282057]
+Moth 45: [-19.52740187   9.28613514]
+Moth 46: [ 65.96329271 -30.93374726]
+Moth 47: [57.01330706 64.89452154]
+Moth 48: [ 65.07409775 -22.07628968]
+Moth 49: [-61.05917119 -52.90318276]
+Moth 50: [-74.73225806   4.10696647]
+
+Best moth's score and position in each iteration:
+Iteration 1:
+  Score: -2.64695812070386e+51
+  Position: [100. 100.]
+Iteration 2:
+  Score: -3.8069038699712064e+56
+  Position: [100.         91.1597646]
+Iteration 3:
+  Score: -1.2372115609134931e+57
+  Position: [ 90.86521436 100.        ]
+Iteration 4:
+  Score: -1.2532099461024913e+59
+  Position: [100. 100.]
+Iteration 5:
+  Score: -1.0883223044839472e+61
+  Position: [100. 100.]
+Iteration 6:
+  Score: -1.0883223044839472e+61
+  Position: [100. 100.]
+Iteration 7:
+  Score: -1.0883223044839472e+61
+  Position: [100. 100.]
+Iteration 8:
+  Score: -1.0883223044839472e+61
+  Position: [100. 100.]
+Iteration 9:
+  Score: -1.2449230778473645e+61
+  Position: [100. 100.]
+Iteration 10:
+  Score: -1.2449230778473645e+61
+  Position: [100. 100.]
+Iteration 11:
+  Score: -1.2449230778473645e+61
+  Position: [100. 100.]
+Iteration 12:
+  Score: -1.2449230778473645e+61
+  Position: [100. 100.]
+Iteration 13:
+  Score: -1.2449230778473645e+61
+  Position: [100. 100.]
+Iteration 14:
+  Score: -1.2449230778473645e+61
+  Position: [100. 100.]
+Iteration 15:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 16:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 17:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 18:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 19:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 20:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 21:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 22:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 23:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 24:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 25:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 26:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 27:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 28:
+  Score: -1.2456559068639475e+61
+  Position: [100. 100.]
+Iteration 29:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 30:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 31:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 32:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 33:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 34:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 35:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 36:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 37:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 38:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 39:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 40:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 41:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 42:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 43:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 44:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 45:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 46:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 47:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 48:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 49:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 50:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 51:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 52:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 53:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 54:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 55:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 56:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 57:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 58:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 59:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 60:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 61:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 62:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 63:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 64:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 65:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 66:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 67:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 68:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 69:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 70:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 71:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 72:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 73:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 74:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 75:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 76:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 77:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 78:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 79:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 80:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 81:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 82:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 83:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 84:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 85:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 86:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 87:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 88:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 89:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 90:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 91:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 92:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 93:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 94:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 95:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 96:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 97:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 98:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 99:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 100:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
+Iteration 101:
+  Score: -1.2458508601525459e+61
+  Position: [100. 100.]
